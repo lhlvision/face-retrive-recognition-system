@@ -42,4 +42,5 @@ facedb id is 4->1.000000
 
 qq交流群612099207   
 
-./faceretrive image.jpg image.jpg
+./faceretrive image.jpg image.jpg   
+执行后该目录会在当前目录保存测试图像的人脸id，以判断是否正确
