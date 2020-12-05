@@ -1,4 +1,5 @@
 # face-retrive-system
+亚洲人脸检索识别模型，支持人脸识别，人脸检索，支持各种平台，总模型大小9MB，i7、android  cpu运行40ms，库独立，完全没有第三方库，方便部署
 face recognition system face retrive system. android,ios , linux ,windows, mac and so on.model size is 9MB,very fast  
 人脸检测20ms 关键点5ms  人脸特征20ms，由于主要是针对移动端人脸进行离线识别，所以检测的性能在大场景情况下稍微有点弱，  
 如果需要大场景需要更新检测模型库，后期逐步开发模型库
